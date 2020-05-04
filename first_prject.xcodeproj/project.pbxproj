@@ -13,6 +13,7 @@
 		42B42803245C92B400CA89AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42B42802245C92B400CA89AD /* Assets.xcassets */; };
 		42B42806245C92B400CA89AD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42B42805245C92B400CA89AD /* Preview Assets.xcassets */; };
 		42B42809245C92B400CA89AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42B42807245C92B400CA89AD /* LaunchScreen.storyboard */; };
+		42B42811245FA41E00CA89AD /* athkarFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B42810245FA41E00CA89AD /* athkarFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		42B42805245C92B400CA89AD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		42B42808245C92B400CA89AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		42B4280A245C92B400CA89AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		42B42810245FA41E00CA89AD /* athkarFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = athkarFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				42B427FC245C92B100CA89AD /* AppDelegate.swift */,
 				42B427FE245C92B100CA89AD /* SceneDelegate.swift */,
 				42B42800245C92B100CA89AD /* ContentView.swift */,
+				42B42810245FA41E00CA89AD /* athkarFile.swift */,
 				42B42802245C92B400CA89AD /* Assets.xcassets */,
 				42B42807245C92B400CA89AD /* LaunchScreen.storyboard */,
 				42B4280A245C92B400CA89AD /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				42B427FD245C92B100CA89AD /* AppDelegate.swift in Sources */,
 				42B427FF245C92B100CA89AD /* SceneDelegate.swift in Sources */,
+				42B42811245FA41E00CA89AD /* athkarFile.swift in Sources */,
 				42B42801245C92B100CA89AD /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
